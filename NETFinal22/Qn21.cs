@@ -12,9 +12,6 @@ namespace NETFinal22
             GenericCollection<int> intArray = new GenericCollection<int>();
             intArray.Add(1);
 
-            GenericCollection<string> stringArray = new GenericCollection<string>();
-            stringArray.Add("Final Example");
-
         }
     }
 
